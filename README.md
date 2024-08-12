@@ -1,8 +1,6 @@
-# template-vanilla
+# js-basic-zero-transform-user-input-to-boolean
 
-## Text
-
-## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
+## Get input from user and transform it to boolean type. Boolean result alert for user
 
 ## Criteria:
 
