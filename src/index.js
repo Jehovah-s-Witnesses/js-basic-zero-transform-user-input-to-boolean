@@ -1,3 +1,4 @@
-const userReady = confirm('Are you ready?');
+const userInput = prompt('Enter something');
+const booleanResult = Boolean(userInput);
 
-alert(userReady);
+alert(booleanResult);
